@@ -20,3 +20,6 @@ I'm a computers science student who is passionate about free and open-source sof
 - Follow me on [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/actuallyaryaman)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Contact me on: aryaman4real@outlook.com 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/actuallyaryaman)
+
+- Hacktober 2022:
+[![@actuallyaryaman's Holopin board](https://holopin.me/actuallyaryaman)](https://holopin.io/@actuallyaryaman)
