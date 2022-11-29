@@ -1,4 +1,4 @@
-# Hi, I'm Aryaman 👋🏾 
+# Hi, I'm Aryaman 👋🏼
 [![Github Badge](https://img.shields.io/github/followers/actuallyaryaman?style=social)](https://github.com/actuallyaryaman)
 
 <!-- <img src="" alt=""> -->
