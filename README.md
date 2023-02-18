@@ -62,4 +62,4 @@
 
 ---
 
-Inspired by [@apurvtyagi](https://github.com/apurvtyagi/apurvtyagi)
+Inspired by [@apurvtyagi](https://github.com/ApurvTyagi/ApurvTyagi)
