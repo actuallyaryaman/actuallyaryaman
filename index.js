@@ -68,7 +68,7 @@ const readme = `\
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you want to keep a secret, you must also hide it from yourself.”❞</i>
+<i>❝ If you want to keep a secret, you must also hide it from yourself.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
