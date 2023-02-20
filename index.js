@@ -17,7 +17,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-# Namaste! I am Aryaman" 
+# Namaste! I am Aryaman. <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
 [![Github Badge](https://img.shields.io/github/followers/actuallyaryaman?style=social)](https://github.com/actuallyaryaman)
 
 <p align="center">
