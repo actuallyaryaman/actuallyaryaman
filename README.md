@@ -1,4 +1,4 @@
-# Namaste! I am Aryaman. <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
+# Namaste! I am Aryaman" 
 [![Github Badge](https://img.shields.io/github/followers/actuallyaryaman?style=social)](https://github.com/actuallyaryaman)
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.80 % as on ⏰ 19-Feb-2023
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.81 % as on ⏰ 19-Feb-2023
 
 ---
 
@@ -49,7 +49,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you want to keep a secret, you must also hide it from yourself.”❞</i>
+<i>❝ If you want to keep a secret, you must also hide it from yourself.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
