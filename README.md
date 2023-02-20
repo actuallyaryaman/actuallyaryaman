@@ -38,7 +38,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.80 % as on ⏰ 19-Feb-2023
 
 ---
 
@@ -66,3 +66,4 @@
 ---
 
 Inspired by [@apoorvtyagi](https://github.com/ApoorvTyagi/ApoorvTyagi)
+
