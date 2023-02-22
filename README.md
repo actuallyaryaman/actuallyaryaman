@@ -30,15 +30,14 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=actuallyaryaman&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyaryaman&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=actuallyaryaman&theme=dark)](https://git.io/streak-stats)
+![Aryaman's github stats](https://github-readme-stats.vercel.app/api?username=actuallyaryaman&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=actuallyaryaman&layout=compact&title_color=94e2d5&text_color=cdd6f4&bg_color=1e1e2e&icon_color=cba6f7hide=css,html,php,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.26 % as on ⏰ 21-Feb-2023
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.39 % as on ⏰ 21-Feb-2023
 
 ---
 
