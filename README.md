@@ -17,15 +17,8 @@
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 My current tech stack :
 
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="65" height="60">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="archlinux" width="65" height="60">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="55" height="55"/>
-    <img src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg" alt="bash" height="57">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55">
+<p align="left">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=catppuccin_mocha&line1=Linux,Linux,930b76;Ubuntu,Ubuntu,508d2d;popos,Pop!_OS,99c1f1;ArchLinux,Arch%20Linux,2c73a8;&line2=python,python,f8e45c;html5,html5,15cad9;git,git,e2087e;gnubash,bash,ffffff;&line3=VScodium,VSCodium,0dcb78;Firefox,FIrefox,d3b089;Brave,Brave,ffa348;Signal,Signal,1c71d8;" alt="My Tech Stack" />
 </p>
 
 ---
@@ -37,7 +30,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.39 % as on ⏰ 21-Feb-2023
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 14.40 % as on ⏰ 21-Feb-2023
 
 ---
 
