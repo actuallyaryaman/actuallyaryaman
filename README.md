@@ -6,12 +6,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/actuallyaryaman) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/actuallyaryaman)
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w)
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student who is passionate about free and open-source software.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I enjoy working with include **HTML, CSS, Python, Bash, GNU/Linux.**<!-- - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann -->
+- 💻 I enjoy working with include **HTML, CSS, Python, Bash, GNU/Linux.**
 - 💬 Talk to me about football, linux, foss software, $btc, startups and pretty much anything else.
 - 👯 We can connect to play some games of CallofDuty Mobile
 - ⚡ Fun fact: Je connais un peu le français
@@ -34,7 +35,7 @@
 
 ---
 
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.40 % as on ⏰ 0-Mar-2023
+⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.42 % as on ⏰ 0-Mar-2023
 
 ---
 
@@ -43,7 +44,6 @@
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝ If you want to keep a secret, you must also hide it from yourself.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
