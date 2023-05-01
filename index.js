@@ -50,7 +50,7 @@ const readme = `\
 ---
 
 ### Currently Working on:
-<a href="https://github.com/fuelish/fuelishweb">![Currently working repo](https://github-readme-stats.vercel.app/api/pin/?username=fuelish&repo=fuelishcli&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)</a>
+<a href="https://github.com/fuelish/fuelishweb">![Currently working repo](https://github-readme-stats.vercel.app/api/pin/?username=fuelish&repo=fuelishweb&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)</a>
 
 ---
 
