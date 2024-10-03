@@ -22,6 +22,10 @@ const readme = `\
 
 <p align="center">
 
+<i>Viva la vida</i>
+
+---
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/actuallyaryaman) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/actuallyaryaman)
 </p>
 
@@ -31,10 +35,8 @@ const readme = `\
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student who is passionate about free and open-source software.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I enjoy working with include **Javascript, CSS, Flutter, Python, NodeJS, GNU/Linux.**
-- 💬 Talk to me about football, linux, foss software, $btc, startups and pretty much anything else.
-- 👯 We can connect to play some games of CallofDuty Mobile
-- ⚡ Fun fact: Je connais un peu le français
+- 💻 I enjoy working with include **Javascript, CSS, Flutter, Python, GNU/Linux.**
+- 💬 Talk to me about football, linux, foss software, $btc, and anything and everything.
 - 🧑‍💻 My current tech stack :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,28 +54,8 @@ const readme = `\
 
 ---
 
-▶ [... view more](https://actuallyaryaman.com/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝ If you want to keep a secret, you must also hide it from yourself.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
----
-
-### Hacktober2022:
+### Hacktoberfest:
 [![An image of @actuallyaryaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/actuallyaryaman)](https://holopin.io/@actuallyaryaman)
 
----
-
-Inspired by [@apoorvtyagi](https://github.com/ApoorvTyagi/ApoorvTyagi)
 `
 console.log(readme)
