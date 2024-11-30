@@ -10,8 +10,6 @@
 
 ### Visit my [website](https://a4real.org)
 
-![](assets/coding.gif?format=1000w)
-
 ###
 Designer by choice, programmer by consequence, on a journey of creating softwares that are usable and easy on the eye.
 
