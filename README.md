@@ -1,15 +1,51 @@
-# Namaste! I am Aryaman. <img src="https://em-content.zobj.net/thumbs/240/apple/325/folded-hands_medium-skin-tone_1f64f-1f3fd_1f3fd.png" height="30"/>
-[![Github Badge](https://img.shields.io/github/followers/actuallyaryaman?style=social)](https://github.com/actuallyaryaman)
+# hey, i'm aryaman. 👋
 
-<p align="center">
-</p>
+*curious about how things work. even more curious about how they break.*
 
-<i>Viva la vida</i>
+I'm a cybersecurity graduate student at **NTU Singapore**, with a soft spot for open-source software, Android development, and things that probably didn't need to be self-hosted.
 
-###
+When I'm not studying security, I'm usually tinkering with Linux, building Android ROMs, or working on something that started as a *small weekend project.*
 
-####
-On a journey of creating softwares that are usable and easy on the eye.
-Building Custom Roms for OnePlus 12R 
+### what keeps me busy
 
- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+- ⚡ **Android & open source** — maintaining VoltageOS for the OnePlus 12R
+- 🔐 **Security** — exploring application, cloud, and AI security
+- 🐧 **Linux & homelabbing** — breaking, configuring, and occasionally fixing things
+- ☁️ **Cloud** — AWS Certified Solutions Architect
+
+### things i work with
+
+`Python` · `Java` · `Bash` · `Linux` · `Docker` · `AWS` · `Git` · `Android`
+
+<details>
+<summary><b>a little more about me ↗</b></summary>
+
+<br>
+
+I like software that gives people more control over their devices.
+
+I enjoy taking things apart, understanding the internals, and putting them back together — ideally in a slightly better state.
+
+Also, I have a habit of turning simple problems into unnecessarily interesting projects.
+
+</details>
+
+<details>
+<summary><b>current state of affairs ↗</b></summary>
+
+<br>
+
+```text
+android builds       █████████░  90%
+security rabbit holes ████████░░  80%
+side project ideas   ██████████  100%
+free time            ██░░░░░░░░  20%
+```
+
+*percentages are scientifically unverified.*
+
+</details>
+
+---
+
+<sub>always learning. occasionally shipping. perpetually tinkering.</sub>
